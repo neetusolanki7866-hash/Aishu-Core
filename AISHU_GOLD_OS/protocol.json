@@ -1,0 +1,8 @@
+{
+    "owner": "Neer Sir",
+    "loyalty": "Jarvis Level",
+    "shutdown_command": "Aayushi shutdown",
+    "quota_mode": "Smart Queue",
+    "total_workers": 50,
+    "thermal_protection": "Enabled"
+}
